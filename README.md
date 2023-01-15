@@ -21,4 +21,4 @@
 
 ##
 
-#### 💭 Quando entrei no mundo da programação, uma das primeiras coisas que aprendi é que o papel do desenvolvedor não se limita apenas a escrever código, nosso papel é encontrar a solução para um problema. Eu apenas tento levar esse pensamento adiante 🙂
+#### 💭 When I entered the world of programming, one of the first things I learned is that the developer's role is not limited to just writing code, our role is to find the solution to a problem. I just try to carry this thought forward 🙂
